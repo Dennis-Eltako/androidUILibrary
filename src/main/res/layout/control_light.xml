@@ -13,6 +13,7 @@
         android:contentDescription="@string/placeholder" />
 
     <TextView
+        android:id="@+id/roomLabel"
         android:layout_marginEnd="4dp"
         android:layout_marginStart="4dp"
         android:layout_weight="1"
